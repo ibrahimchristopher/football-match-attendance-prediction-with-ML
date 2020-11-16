@@ -1,0 +1,381 @@
+,round,match,date,time,home,away,score,venue,attendance
+0,r1,m1,"Saturday, 8. August 2015",15:00,AFC Bournemouth,Aston Villa,0:1,Vitality Stadium (Bournemouth / England),11.155
+1,r1,m2,"Saturday, 8. August 2015",15:00,Leicester City,Sunderland AFC,4:2,King Power Stadium (Leicester / England),32.242
+2,r1,m3,"Saturday, 8. August 2015",17:30,Chelsea FC,Swansea City,2:2,Stamford Bridge (London / England),41.232
+3,r1,m4,"Sunday, 9. August 2015",13:30,Newcastle United,Southampton FC,2:2,St James' Park (Newcastle / England),49.019
+4,r1,m5,"Monday, 10. August 2015",20:00,West Bromwich Albion,Manchester City,0:3,The Hawthorns (West Bromwich / England),24.564
+5,r1,m6,"Saturday, 8. August 2015",12:45,Manchester United,Tottenham Hotspur,1:0,Old Trafford (Manchester / England),75.261
+6,r1,m7,"Saturday, 8. August 2015",15:00,Everton FC,Watford FC,2:2,Goodison Park (Liverpool / England),39.063
+7,r1,m8,"Saturday, 8. August 2015",15:00,Norwich City,Crystal Palace,1:3,Carrow Road (Norwich / England),27.036
+8,r1,m9,"Sunday, 9. August 2015",13:30,Arsenal FC,West Ham United,0:2,Emirates Stadium (London / England),59.996
+9,r1,m10,"Sunday, 9. August 2015",16:00,Stoke City,Liverpool FC,0:1,Britannia Stadium (Stoke-on-Trent / England),27.654
+10,r2,m1,"Saturday, 15. August 2015",12:45,Southampton FC,Everton FC,0:3,Saint Mary's (Southampton / England),30.966
+11,r2,m2,"Saturday, 15. August 2015",15:00,Swansea City,Newcastle United,2:0,Liberty Stadium (Swansea / Wales),20.678
+12,r2,m3,"Saturday, 15. August 2015",15:00,Watford FC,West Bromwich Albion,0:0,Vicarage Road (Watford / England),20.011
+13,r2,m4,"Sunday, 16. August 2015",13:30,Crystal Palace,Arsenal FC,1:2,Selhurst Park (London / England),24.732
+14,r2,m5,"Monday, 17. August 2015",20:00,Liverpool FC,AFC Bournemouth,1:0,Anfield (Liverpool / England),44.102
+15,r2,m6,"Friday, 14. August 2015",19:45,Aston Villa,Manchester United,0:1,Villa Park (Birmingham / England),42.200
+16,r2,m7,"Saturday, 15. August 2015",15:00,Sunderland AFC,Norwich City,1:3,Stadium of Light (Sunderland / England),41.379
+17,r2,m8,"Saturday, 15. August 2015",15:00,Tottenham Hotspur,Stoke City,2:2,White Hart Lane (London / England),36.004
+18,r2,m9,"Saturday, 15. August 2015",15:00,West Ham United,Leicester City,1:2,Upton Park (London / England),34.857
+19,r2,m10,"Sunday, 16. August 2015",16:00,Manchester City,Chelsea FC,3:0,Etihad Stadium (Manchester / England),54.331
+20,r3,m1,"Saturday, 22. August 2015",15:00,Crystal Palace,Aston Villa,2:1,Selhurst Park (London / England),25.295
+21,r3,m2,"Saturday, 22. August 2015",15:00,Norwich City,Stoke City,1:1,Carrow Road (Norwich / England),26.771
+22,r3,m3,"Saturday, 22. August 2015",15:00,West Ham United,AFC Bournemouth,3:4,Upton Park (London / England),34.977
+23,r3,m4,"Sunday, 23. August 2015",16:00,Everton FC,Manchester City,0:2,Goodison Park (Liverpool / England),38.523
+24,r3,m5,"Monday, 24. August 2015",20:00,Arsenal FC,Liverpool FC,0:0,Emirates Stadium (London / England),60.080
+25,r3,m6,"Saturday, 22. August 2015",12:45,Manchester United,Newcastle United,0:0,Old Trafford (Manchester / England),75.354
+26,r3,m7,"Saturday, 22. August 2015",15:00,Leicester City,Tottenham Hotspur,1:1,King Power Stadium (Leicester / England),31.971
+27,r3,m8,"Saturday, 22. August 2015",15:00,Sunderland AFC,Swansea City,1:1,Stadium of Light (Sunderland / England),39.198
+28,r3,m9,"Sunday, 23. August 2015",13:30,West Bromwich Albion,Chelsea FC,2:3,The Hawthorns (West Bromwich / England),23.256
+29,r3,m10,"Sunday, 23. August 2015",16:00,Watford FC,Southampton FC,0:0,Vicarage Road (Watford / England),20.166
+30,r4,m1,"Saturday, 29. August 2015",15:00,AFC Bournemouth,Leicester City,1:1,Vitality Stadium (Bournemouth / England),11.155
+31,r4,m2,"Saturday, 29. August 2015",15:00,Chelsea FC,Crystal Palace,1:2,Stamford Bridge (London / England),41.581
+32,r4,m3,"Saturday, 29. August 2015",15:00,Manchester City,Watford FC,2:0,Etihad Stadium (Manchester / England),53.218
+33,r4,m4,"Saturday, 29. August 2015",17:30,Tottenham Hotspur,Everton FC,0:0,White Hart Lane (London / England),35.865
+34,r4,m5,"Sunday, 30. August 2015",16:00,Swansea City,Manchester United,2:1,Liberty Stadium (Swansea / Wales),20.828
+35,r4,m6,"Saturday, 29. August 2015",12:45,Newcastle United,Arsenal FC,0:1,St James' Park (Newcastle / England),50.388
+36,r4,m7,"Saturday, 29. August 2015",15:00,Aston Villa,Sunderland AFC,2:2,Villa Park (Birmingham / England),35.399
+37,r4,m8,"Saturday, 29. August 2015",15:00,Liverpool FC,West Ham United,0:3,Anfield (Liverpool / England),43.680
+38,r4,m9,"Saturday, 29. August 2015",15:00,Stoke City,West Bromwich Albion,0:1,Britannia Stadium (Stoke-on-Trent / England),26.747
+39,r4,m10,"Sunday, 30. August 2015",13:30,Southampton FC,Norwich City,3:0,Saint Mary's (Southampton / England),29.573
+40,r5,m1,"Saturday, 12. September 2015",15:00,Arsenal FC,Stoke City,2:0,Emirates Stadium (London / England),59.963
+41,r5,m2,"Saturday, 12. September 2015",15:00,Norwich City,AFC Bournemouth,3:1,Carrow Road (Norwich / England),27.018
+42,r5,m3,"Saturday, 12. September 2015",15:00,West Bromwich Albion,Southampton FC,0:0,The Hawthorns (West Bromwich / England),24.265
+43,r5,m4,"Sunday, 13. September 2015",13:30,Sunderland AFC,Tottenham Hotspur,0:1,Stadium of Light (Sunderland / England),40.303
+44,r5,m5,"Monday, 14. September 2015",20:00,West Ham United,Newcastle United,2:0,Upton Park (London / England),34.907
+45,r5,m6,"Saturday, 12. September 2015",12:45,Everton FC,Chelsea FC,3:1,Goodison Park (Liverpool / England),38.311
+46,r5,m7,"Saturday, 12. September 2015",15:00,Crystal Palace,Manchester City,0:1,Selhurst Park (London / England),25.167
+47,r5,m8,"Saturday, 12. September 2015",15:00,Watford FC,Swansea City,1:0,Vicarage Road (Watford / England),20.057
+48,r5,m9,"Saturday, 12. September 2015",17:30,Manchester United,Liverpool FC,3:1,Old Trafford (Manchester / England),75.347
+49,r5,m10,"Sunday, 13. September 2015",16:00,Leicester City,Aston Villa,3:2,King Power Stadium (Leicester / England),31.733
+50,r6,m1,"Saturday, 19. September 2015",15:00,AFC Bournemouth,Sunderland AFC,2:0,Vitality Stadium (Bournemouth / England),11.271
+51,r6,m2,"Saturday, 19. September 2015",15:00,Newcastle United,Watford FC,1:2,St James' Park (Newcastle / England),47.806
+52,r6,m3,"Saturday, 19. September 2015",15:00,Swansea City,Everton FC,0:0,Liberty Stadium (Swansea / Wales),20.805
+53,r6,m4,"Sunday, 20. September 2015",13:30,Tottenham Hotspur,Crystal Palace,1:0,White Hart Lane (London / England),35.723
+54,r6,m5,"Sunday, 20. September 2015",16:00,Southampton FC,Manchester United,2:3,Saint Mary's (Southampton / England),31.588
+55,r6,m6,"Saturday, 19. September 2015",12:45,Chelsea FC,Arsenal FC,2:0,Stamford Bridge (London / England),41.584
+56,r6,m7,"Saturday, 19. September 2015",15:00,Aston Villa,West Bromwich Albion,0:1,Villa Park (Birmingham / England),36.321
+57,r6,m8,"Saturday, 19. September 2015",15:00,Stoke City,Leicester City,2:2,Britannia Stadium (Stoke-on-Trent / England),27.642
+58,r6,m9,"Saturday, 19. September 2015",17:30,Manchester City,West Ham United,1:2,Etihad Stadium (Manchester / England),53.545
+59,r6,m10,"Sunday, 20. September 2015",16:00,Liverpool FC,Norwich City,1:1,Anfield (Liverpool / England),44.072
+60,r7,m1,"Saturday, 26. September 2015",15:00,Leicester City,Arsenal FC,2:5,King Power Stadium (Leicester / England),32.047
+61,r7,m2,"Saturday, 26. September 2015",15:00,Manchester United,Sunderland AFC,3:0,Old Trafford (Manchester / England),75.328
+62,r7,m3,"Saturday, 26. September 2015",15:00,Stoke City,AFC Bournemouth,2:1,Britannia Stadium (Stoke-on-Trent / England),27.742
+63,r7,m4,"Saturday, 26. September 2015",17:30,Newcastle United,Chelsea FC,2:2,St James' Park (Newcastle / England),48.682
+64,r7,m5,"Monday, 28. September 2015",20:00,West Bromwich Albion,Everton FC,2:3,The Hawthorns (West Bromwich / England),24.240
+65,r7,m6,"Saturday, 26. September 2015",12:45,Tottenham Hotspur,Manchester City,4:1,White Hart Lane (London / England),35.867
+66,r7,m7,"Saturday, 26. September 2015",15:00,Liverpool FC,Aston Villa,3:2,Anfield (Liverpool / England),44.228
+67,r7,m8,"Saturday, 26. September 2015",15:00,Southampton FC,Swansea City,3:1,Saint Mary's (Southampton / England),30.704
+68,r7,m9,"Saturday, 26. September 2015",15:00,West Ham United,Norwich City,2:2,Upton Park (London / England),34.857
+69,r7,m10,"Sunday, 27. September 2015",16:00,Watford FC,Crystal Palace,0:1,Vicarage Road (Watford / England),20.168
+70,r8,m1,"Saturday, 3. October 2015",15:00,AFC Bournemouth,Watford FC,1:1,Vitality Stadium (Bournemouth / England),11.187
+71,r8,m2,"Saturday, 3. October 2015",15:00,Manchester City,Newcastle United,6:1,Etihad Stadium (Manchester / England),53.850
+72,r8,m3,"Saturday, 3. October 2015",15:00,Sunderland AFC,West Ham United,2:2,Stadium of Light (Sunderland / England),42.932
+73,r8,m4,"Sunday, 4. October 2015",13:30,Everton FC,Liverpool FC,1:1,Goodison Park (Liverpool / England),39.598
+74,r8,m5,"Sunday, 4. October 2015",16:00,Swansea City,Tottenham Hotspur,2:2,Liberty Stadium (Swansea / Wales),20.845
+75,r8,m6,"Saturday, 3. October 2015",12:45,Crystal Palace,West Bromwich Albion,2:0,Selhurst Park (London / England),24.033
+76,r8,m7,"Saturday, 3. October 2015",15:00,Aston Villa,Stoke City,0:1,Villa Park (Birmingham / England),33.189
+77,r8,m8,"Saturday, 3. October 2015",15:00,Norwich City,Leicester City,1:2,Carrow Road (Norwich / England),27.067
+78,r8,m9,"Saturday, 3. October 2015",17:30,Chelsea FC,Southampton FC,1:3,Stamford Bridge (London / England),41.642
+79,r8,m10,"Sunday, 4. October 2015",16:00,Arsenal FC,Manchester United,3:0,Emirates Stadium (London / England),60.084
+80,r9,m1,"Saturday, 17. October 2015",15:00,Chelsea FC,Aston Villa,2:0,Stamford Bridge (London / England),41.596
+81,r9,m2,"Saturday, 17. October 2015",15:00,Everton FC,Manchester United,0:3,Goodison Park (Liverpool / England),39.553
+82,r9,m3,"Saturday, 17. October 2015",15:00,Southampton FC,Leicester City,2:2,Saint Mary's (Southampton / England),30.966
+83,r9,m4,"Saturday, 17. October 2015",17:30,Watford FC,Arsenal FC,0:3,Vicarage Road (Watford / England),20.721
+84,r9,m5,"Monday, 19. October 2015",20:00,Swansea City,Stoke City,0:1,Liberty Stadium (Swansea / Wales),20.044
+85,r9,m6,"Saturday, 17. October 2015",12:45,Tottenham Hotspur,Liverpool FC,0:0,White Hart Lane (London / England),35.926
+86,r9,m7,"Saturday, 17. October 2015",15:00,Crystal Palace,West Ham United,1:3,Selhurst Park (London / England),24.812
+87,r9,m8,"Saturday, 17. October 2015",15:00,Manchester City,AFC Bournemouth,5:1,Etihad Stadium (Manchester / England),54.502
+88,r9,m9,"Saturday, 17. October 2015",15:00,West Bromwich Albion,Sunderland AFC,1:0,The Hawthorns (West Bromwich / England),24.225
+89,r9,m10,"Sunday, 18. October 2015",16:00,Newcastle United,Norwich City,6:2,St James' Park (Newcastle / England),47.006
+90,r10,m1,"Saturday, 24. October 2015",15:00,Leicester City,Crystal Palace,1:0,King Power Stadium (Leicester / England),31.752
+91,r10,m2,"Saturday, 24. October 2015",15:00,Stoke City,Watford FC,0:2,Britannia Stadium (Stoke-on-Trent / England),27.587
+92,r10,m3,"Saturday, 24. October 2015",17:30,Arsenal FC,Everton FC,2:1,Emirates Stadium (London / England),59.985
+93,r10,m4,"Sunday, 25. October 2015",14:05,AFC Bournemouth,Tottenham Hotspur,1:5,Vitality Stadium (Bournemouth / England),11.332
+94,r10,m5,"Sunday, 25. October 2015",16:15,Liverpool FC,Southampton FC,1:1,Anfield (Liverpool / England),44.171
+95,r10,m6,"Saturday, 24. October 2015",15:00,Aston Villa,Swansea City,1:2,Villa Park (Birmingham / England),33.324
+96,r10,m7,"Saturday, 24. October 2015",15:00,Norwich City,West Bromwich Albion,0:1,Carrow Road (Norwich / England),26.983
+97,r10,m8,"Saturday, 24. October 2015",15:00,West Ham United,Chelsea FC,2:1,Upton Park (London / England),34.977
+98,r10,m9,"Sunday, 25. October 2015",12:00,Sunderland AFC,Newcastle United,3:0,Stadium of Light (Sunderland / England),47.653
+99,r10,m10,"Sunday, 25. October 2015",14:05,Manchester United,Manchester City,0:0,Old Trafford (Manchester / England),75.329
+100,r11,m1,"Saturday, 31. October 2015",15:00,Crystal Palace,Manchester United,0:0,Selhurst Park (London / England),24.854
+101,r11,m2,"Saturday, 31. October 2015",15:00,Newcastle United,Stoke City,0:0,St James' Park (Newcastle / England),47.139
+102,r11,m3,"Saturday, 31. October 2015",15:00,Watford FC,West Ham United,2:0,Vicarage Road (Watford / England),20.598
+103,r11,m4,"Sunday, 1. November 2015",13:30,Everton FC,Sunderland AFC,6:2,Goodison Park (Liverpool / England),36.617
+104,r11,m5,"Monday, 2. November 2015",20:00,Tottenham Hotspur,Aston Villa,3:1,White Hart Lane (London / England),34.882
+105,r11,m6,"Saturday, 31. October 2015",12:45,Chelsea FC,Liverpool FC,1:3,Stamford Bridge (London / England),41.577
+106,r11,m7,"Saturday, 31. October 2015",15:00,Manchester City,Norwich City,2:1,Etihad Stadium (Manchester / England),53.418
+107,r11,m8,"Saturday, 31. October 2015",15:00,Swansea City,Arsenal FC,0:3,Liberty Stadium (Swansea / Wales),20.937
+108,r11,m9,"Saturday, 31. October 2015",15:00,West Bromwich Albion,Leicester City,2:3,The Hawthorns (West Bromwich / England),24.150
+109,r11,m10,"Sunday, 1. November 2015",16:00,Southampton FC,AFC Bournemouth,2:0,Saint Mary's (Southampton / England),31.229
+110,r12,m1,"Saturday, 7. November 2015",15:00,Leicester City,Watford FC,2:1,King Power Stadium (Leicester / England),32.029
+111,r12,m2,"Saturday, 7. November 2015",15:00,Norwich City,Swansea City,1:0,Carrow Road (Norwich / England),27.029
+112,r12,m3,"Saturday, 7. November 2015",15:00,West Ham United,Everton FC,1:1,Upton Park (London / England),34.977
+113,r12,m4,"Sunday, 8. November 2015",13:30,Aston Villa,Manchester City,0:0,Villa Park (Birmingham / England),36.757
+114,r12,m5,"Sunday, 8. November 2015",16:00,Liverpool FC,Crystal Palace,1:2,Anfield (Liverpool / England),44.115
+115,r12,m6,"Saturday, 7. November 2015",12:45,AFC Bournemouth,Newcastle United,0:1,Vitality Stadium (Bournemouth / England),11.155
+116,r12,m7,"Saturday, 7. November 2015",15:00,Manchester United,West Bromwich Albion,2:0,Old Trafford (Manchester / England),75.410
+117,r12,m8,"Saturday, 7. November 2015",15:00,Sunderland AFC,Southampton FC,0:1,Stadium of Light (Sunderland / England),41.781
+118,r12,m9,"Saturday, 7. November 2015",17:30,Stoke City,Chelsea FC,1:0,Britannia Stadium (Stoke-on-Trent / England),27.550
+119,r12,m10,"Sunday, 8. November 2015",16:00,Arsenal FC,Tottenham Hotspur,1:1,Emirates Stadium (London / England),60.060
+120,r13,m1,"Saturday, 21. November 2015",15:00,Chelsea FC,Norwich City,1:0,Stamford Bridge (London / England),41.582
+121,r13,m2,"Saturday, 21. November 2015",15:00,Newcastle United,Leicester City,0:3,St James' Park (Newcastle / England),50.151
+122,r13,m3,"Saturday, 21. November 2015",15:00,Swansea City,AFC Bournemouth,2:2,Liberty Stadium (Swansea / Wales),20.878
+123,r13,m4,"Saturday, 21. November 2015",17:30,Manchester City,Liverpool FC,1:4,Etihad Stadium (Manchester / England),54.444
+124,r13,m5,"Monday, 23. November 2015",20:00,Crystal Palace,Sunderland AFC,0:1,Selhurst Park (London / England),24.361
+125,r13,m6,"Saturday, 21. November 2015",12:45,Watford FC,Manchester United,1:2,Vicarage Road (Watford / England),20.702
+126,r13,m7,"Saturday, 21. November 2015",15:00,Everton FC,Aston Villa,4:0,Goodison Park (Liverpool / England),38.424
+127,r13,m8,"Saturday, 21. November 2015",15:00,Southampton FC,Stoke City,0:1,Saint Mary's (Southampton / England),30.039
+128,r13,m9,"Saturday, 21. November 2015",15:00,West Bromwich Albion,Arsenal FC,2:1,The Hawthorns (West Bromwich / England),24.343
+129,r13,m10,"Sunday, 22. November 2015",16:00,Tottenham Hotspur,West Ham United,4:1,White Hart Lane (London / England),35.968
+130,r14,m1,"Saturday, 28. November 2015",15:00,Aston Villa,Watford FC,2:3,Villa Park (Birmingham / England),35.057
+131,r14,m2,"Saturday, 28. November 2015",15:00,Manchester City,Southampton FC,3:1,Etihad Stadium (Manchester / England),54.102
+132,r14,m3,"Saturday, 28. November 2015",17:30,Leicester City,Manchester United,1:1,King Power Stadium (Leicester / England),32.115
+133,r14,m4,"Sunday, 29. November 2015",14:05,West Ham United,West Bromwich Albion,1:1,Upton Park (London / England),34.914
+134,r14,m5,"Sunday, 29. November 2015",16:15,Norwich City,Arsenal FC,1:1,Carrow Road (Norwich / England),27.091
+135,r14,m6,"Saturday, 28. November 2015",15:00,AFC Bournemouth,Everton FC,3:3,Vitality Stadium (Bournemouth / England),11.228
+136,r14,m7,"Saturday, 28. November 2015",15:00,Crystal Palace,Newcastle United,5:1,Selhurst Park (London / England),24.833
+137,r14,m8,"Saturday, 28. November 2015",15:00,Sunderland AFC,Stoke City,2:0,Stadium of Light (Sunderland / England),41.516
+138,r14,m9,"Sunday, 29. November 2015",12:00,Tottenham Hotspur,Chelsea FC,0:0,White Hart Lane (London / England),35.639
+139,r14,m10,"Sunday, 29. November 2015",16:15,Liverpool FC,Swansea City,1:0,Anfield (Liverpool / England),43.905
+140,r15,m1,"Saturday, 5. December 2015",15:00,Arsenal FC,Sunderland AFC,3:1,Emirates Stadium (London / England),59.937
+141,r15,m2,"Saturday, 5. December 2015",15:00,Southampton FC,Aston Villa,1:1,Saint Mary's (Southampton / England),29.645
+142,r15,m3,"Saturday, 5. December 2015",15:00,Watford FC,Norwich City,2:0,Vicarage Road (Watford / England),20.422
+143,r15,m4,"Saturday, 5. December 2015",17:30,Chelsea FC,AFC Bournemouth,0:1,Stamford Bridge (London / England),41.631
+144,r15,m5,"Monday, 7. December 2015",20:00,Everton FC,Crystal Palace,1:1,Goodison Park (Liverpool / England),35.736
+145,r15,m6,"Saturday, 5. December 2015",12:45,Stoke City,Manchester City,2:0,Britannia Stadium (Stoke-on-Trent / England),27.264
+146,r15,m7,"Saturday, 5. December 2015",15:00,Manchester United,West Ham United,0:0,Old Trafford (Manchester / England),75.350
+147,r15,m8,"Saturday, 5. December 2015",15:00,Swansea City,Leicester City,0:3,Liberty Stadium (Swansea / Wales),20.836
+148,r15,m9,"Saturday, 5. December 2015",15:00,West Bromwich Albion,Tottenham Hotspur,1:1,The Hawthorns (West Bromwich / England),23.602
+149,r15,m10,"Sunday, 6. December 2015",16:00,Newcastle United,Liverpool FC,2:0,St James' Park (Newcastle / England),51.273
+150,r16,m1,"Saturday, 12. December 2015",15:00,Crystal Palace,Southampton FC,1:0,Selhurst Park (London / England),24.914
+151,r16,m2,"Saturday, 12. December 2015",15:00,Sunderland AFC,Watford FC,0:1,Stadium of Light (Sunderland / England),43.989
+152,r16,m3,"Saturday, 12. December 2015",17:30,AFC Bournemouth,Manchester United,2:1,Vitality Stadium (Bournemouth / England),11.334
+153,r16,m4,"Sunday, 13. December 2015",16:00,Liverpool FC,West Bromwich Albion,2:2,Anfield (Liverpool / England),44.147
+154,r16,m5,"Monday, 14. December 2015",20:00,Leicester City,Chelsea FC,2:1,King Power Stadium (Leicester / England),32.054
+155,r16,m6,"Saturday, 12. December 2015",12:45,Norwich City,Everton FC,1:1,Carrow Road (Norwich / England),27.027
+156,r16,m7,"Saturday, 12. December 2015",15:00,Manchester City,Swansea City,2:1,Etihad Stadium (Manchester / England),53.052
+157,r16,m8,"Saturday, 12. December 2015",15:00,West Ham United,Stoke City,0:0,Upton Park (London / England),34.857
+158,r16,m9,"Sunday, 13. December 2015",13:30,Aston Villa,Arsenal FC,0:2,Villa Park (Birmingham / England),33.285
+159,r16,m10,"Sunday, 13. December 2015",16:00,Tottenham Hotspur,Newcastle United,1:2,White Hart Lane (London / England),35.768
+160,r17,m1,"Saturday, 19. December 2015",15:00,Everton FC,Leicester City,2:3,Goodison Park (Liverpool / England),39.570
+161,r17,m2,"Saturday, 19. December 2015",15:00,Southampton FC,Tottenham Hotspur,0:2,Saint Mary's (Southampton / England),31.636
+162,r17,m3,"Saturday, 19. December 2015",15:00,West Bromwich Albion,AFC Bournemouth,1:2,The Hawthorns (West Bromwich / England),26.127
+163,r17,m4,"Sunday, 20. December 2015",13:30,Watford FC,Liverpool FC,3:0,Vicarage Road (Watford / England),20.707
+164,r17,m5,"Monday, 21. December 2015",20:00,Arsenal FC,Manchester City,2:1,Emirates Stadium (London / England),60.053
+165,r17,m6,"Saturday, 19. December 2015",15:00,Chelsea FC,Sunderland AFC,3:1,Stamford Bridge (London / England),41.562
+166,r17,m7,"Saturday, 19. December 2015",15:00,Manchester United,Norwich City,1:2,Old Trafford (Manchester / England),75.320
+167,r17,m8,"Saturday, 19. December 2015",15:00,Stoke City,Crystal Palace,1:2,Britannia Stadium (Stoke-on-Trent / England),27.500
+168,r17,m9,"Saturday, 19. December 2015",17:30,Newcastle United,Aston Villa,1:1,St James' Park (Newcastle / England),48.234
+169,r17,m10,"Sunday, 20. December 2015",16:00,Swansea City,West Ham United,0:0,Liberty Stadium (Swansea / Wales),20.661
+170,r18,m1,"Saturday, 26. December 2015",15:00,AFC Bournemouth,Crystal Palace,0:0,Vitality Stadium (Bournemouth / England),11.218
+171,r18,m2,"Saturday, 26. December 2015",15:00,Chelsea FC,Watford FC,2:2,Stamford Bridge (London / England),41.630
+172,r18,m3,"Saturday, 26. December 2015",15:00,Manchester City,Sunderland AFC,4:1,Etihad Stadium (Manchester / England),54.523
+173,r18,m4,"Saturday, 26. December 2015",15:00,Tottenham Hotspur,Norwich City,3:0,White Hart Lane (London / England),35.198
+174,r18,m5,"Saturday, 26. December 2015",19:45,Southampton FC,Arsenal FC,4:0,Saint Mary's (Southampton / England),31.669
+175,r18,m6,"Saturday, 26. December 2015",12:45,Stoke City,Manchester United,2:0,Britannia Stadium (Stoke-on-Trent / England),27.426
+176,r18,m7,"Saturday, 26. December 2015",15:00,Aston Villa,West Ham United,1:1,Villa Park (Birmingham / England),38.193
+177,r18,m8,"Saturday, 26. December 2015",15:00,Liverpool FC,Leicester City,1:0,Anfield (Liverpool / England),44.123
+178,r18,m9,"Saturday, 26. December 2015",15:00,Swansea City,West Bromwich Albion,1:0,Liberty Stadium (Swansea / Wales),20.789
+179,r18,m10,"Saturday, 26. December 2015",17:30,Newcastle United,Everton FC,0:1,St James' Park (Newcastle / England),51.682
+180,r19,m1,"Monday, 28. December 2015",15:00,Everton FC,Stoke City,3:4,Goodison Park (Liverpool / England),39.340
+181,r19,m2,"Monday, 28. December 2015",15:00,Watford FC,Tottenham Hotspur,1:2,Vicarage Road (Watford / England),20.730
+182,r19,m3,"Monday, 28. December 2015",17:30,Arsenal FC,AFC Bournemouth,2:0,Emirates Stadium (London / England),59.983
+183,r19,m4,"Monday, 28. December 2015",17:30,West Ham United,Southampton FC,2:1,Upton Park (London / England),34.977
+184,r19,m5,"Wednesday, 30. December 2015",19:45,Sunderland AFC,Liverpool FC,0:1,Stadium of Light (Sunderland / England),45.765
+185,r19,m6,"Monday, 28. December 2015",15:00,Crystal Palace,Swansea City,0:0,Selhurst Park (London / England),23.714
+186,r19,m7,"Monday, 28. December 2015",15:00,Norwich City,Aston Villa,2:0,Carrow Road (Norwich / England),27.071
+187,r19,m8,"Monday, 28. December 2015",15:00,West Bromwich Albion,Newcastle United,1:0,The Hawthorns (West Bromwich / England),26.313
+188,r19,m9,"Monday, 28. December 2015",17:30,Manchester United,Chelsea FC,0:0,Old Trafford (Manchester / England),75.275
+189,r19,m10,"Tuesday, 29. December 2015",19:45,Leicester City,Manchester City,0:0,King Power Stadium (Leicester / England),32.072
+190,r20,m1,"Saturday, 2. January 2016",15:00,Arsenal FC,Newcastle United,1:0,Emirates Stadium (London / England),59.257
+191,r20,m2,"Saturday, 2. January 2016",15:00,Manchester United,Swansea City,2:1,Old Trafford (Manchester / England),75.415
+192,r20,m3,"Saturday, 2. January 2016",15:00,Sunderland AFC,Aston Villa,3:1,Stadium of Light (Sunderland / England),41.535
+193,r20,m4,"Saturday, 2. January 2016",17:30,Watford FC,Manchester City,1:2,Vicarage Road (Watford / England),20.676
+194,r20,m5,"Sunday, 3. January 2016",16:00,Everton FC,Tottenham Hotspur,1:1,Goodison Park (Liverpool / England),38.482
+195,r20,m6,"Saturday, 2. January 2016",12:45,West Ham United,Liverpool FC,2:0,Upton Park (London / England),34.977
+196,r20,m7,"Saturday, 2. January 2016",15:00,Leicester City,AFC Bournemouth,0:0,King Power Stadium (Leicester / England),32.006
+197,r20,m8,"Saturday, 2. January 2016",15:00,Norwich City,Southampton FC,1:0,Carrow Road (Norwich / England),27.022
+198,r20,m9,"Saturday, 2. January 2016",15:00,West Bromwich Albion,Stoke City,2:1,The Hawthorns (West Bromwich / England),23.218
+199,r20,m10,"Sunday, 3. January 2016",13:30,Crystal Palace,Chelsea FC,0:3,Selhurst Park (London / England),24.854
+200,r21,m1,"Tuesday, 12. January 2016",19:45,Aston Villa,Crystal Palace,1:0,Villa Park (Birmingham / England),28.245
+201,r21,m2,"Wednesday, 13. January 2016",19:45,Swansea City,Sunderland AFC,2:4,Liberty Stadium (Swansea / Wales),20.140
+202,r21,m3,"Wednesday, 13. January 2016",19:45,Manchester City,Everton FC,0:0,Etihad Stadium (Manchester / England),53.796
+203,r21,m4,"Wednesday, 13. January 2016",19:45,Stoke City,Norwich City,3:1,Britannia Stadium (Stoke-on-Trent / England),27.274
+204,r21,m5,"Wednesday, 13. January 2016",20:00,Tottenham Hotspur,Leicester City,0:1,White Hart Lane (London / England),35.850
+205,r21,m6,"Tuesday, 12. January 2016",19:45,AFC Bournemouth,West Ham United,1:3,Vitality Stadium (Bournemouth / England),11.071
+206,r21,m7,"Tuesday, 12. January 2016",19:45,Newcastle United,Manchester United,3:3,St James' Park (Newcastle / England),49.673
+207,r21,m8,"Wednesday, 13. January 2016",19:45,Chelsea FC,West Bromwich Albion,2:2,Stamford Bridge (London / England),40.945
+208,r21,m9,"Wednesday, 13. January 2016",19:45,Southampton FC,Watford FC,2:0,Saint Mary's (Southampton / England),28.399
+209,r21,m10,"Wednesday, 13. January 2016",20:00,Liverpool FC,Arsenal FC,3:3,Anfield (Liverpool / England),44.109
+210,r22,m1,"Saturday, 16. January 2016",15:00,AFC Bournemouth,Norwich City,3:0,Vitality Stadium (Bournemouth / England),11.065
+211,r22,m2,"Saturday, 16. January 2016",15:00,Manchester City,Crystal Palace,4:0,Etihad Stadium (Manchester / England),53.983
+212,r22,m3,"Saturday, 16. January 2016",15:00,Southampton FC,West Bromwich Albion,3:0,Saint Mary's (Southampton / England),29.622
+213,r22,m4,"Sunday, 17. January 2016",14:05,Liverpool FC,Manchester United,0:1,Anfield (Liverpool / England),43.865
+214,r22,m5,"Monday, 18. January 2016",20:00,Swansea City,Watford FC,1:0,Liberty Stadium (Swansea / Wales),20.430
+215,r22,m6,"Saturday, 16. January 2016",12:45,Tottenham Hotspur,Sunderland AFC,4:1,White Hart Lane (London / England),35.854
+216,r22,m7,"Saturday, 16. January 2016",15:00,Chelsea FC,Everton FC,3:3,Stamford Bridge (London / England),41.633
+217,r22,m8,"Saturday, 16. January 2016",15:00,Newcastle United,West Ham United,2:1,St James' Park (Newcastle / England),50.031
+218,r22,m9,"Saturday, 16. January 2016",17:30,Aston Villa,Leicester City,1:1,Villa Park (Birmingham / England),32.763
+219,r22,m10,"Sunday, 17. January 2016",16:15,Stoke City,Arsenal FC,0:0,Britannia Stadium (Stoke-on-Trent / England),27.683
+220,r23,m1,"Saturday, 23. January 2016",15:00,Crystal Palace,Tottenham Hotspur,1:3,Selhurst Park (London / England),24.867
+221,r23,m2,"Saturday, 23. January 2016",15:00,Manchester United,Southampton FC,0:1,Old Trafford (Manchester / England),75.408
+222,r23,m3,"Saturday, 23. January 2016",15:00,Watford FC,Newcastle United,2:1,Vicarage Road (Watford / England),20.611
+223,r23,m4,"Saturday, 23. January 2016",17:30,West Ham United,Manchester City,2:2,Upton Park (London / England),34.977
+224,r23,m5,"Sunday, 24. January 2016",16:00,Arsenal FC,Chelsea FC,0:1,Emirates Stadium (London / England),60.072
+225,r23,m6,"Saturday, 23. January 2016",12:45,Norwich City,Liverpool FC,4:5,Carrow Road (Norwich / England),27.108
+226,r23,m7,"Saturday, 23. January 2016",15:00,Leicester City,Stoke City,3:0,King Power Stadium (Leicester / England),32.018
+227,r23,m8,"Saturday, 23. January 2016",15:00,Sunderland AFC,AFC Bournemouth,1:1,Stadium of Light (Sunderland / England),41.367
+228,r23,m9,"Saturday, 23. January 2016",15:00,West Bromwich Albion,Aston Villa,0:0,The Hawthorns (West Bromwich / England),26.165
+229,r23,m10,"Sunday, 24. January 2016",13:30,Everton FC,Swansea City,1:2,Goodison Park (Liverpool / England),36.908
+230,r24,m1,"Tuesday, 2. February 2016",19:45,Leicester City,Liverpool FC,2:0,King Power Stadium (Leicester / England),32.121
+231,r24,m2,"Tuesday, 2. February 2016",19:45,Sunderland AFC,Manchester City,0:1,Stadium of Light (Sunderland / England),38.852
+232,r24,m3,"Tuesday, 2. February 2016",20:00,Crystal Palace,AFC Bournemouth,1:2,Selhurst Park (London / England),24.855
+233,r24,m4,"Tuesday, 2. February 2016",20:00,West Bromwich Albion,Swansea City,1:1,The Hawthorns (West Bromwich / England),22.062
+234,r24,m5,"Wednesday, 3. February 2016",19:45,Everton FC,Newcastle United,3:0,Goodison Park (Liverpool / England),36.061
+235,r24,m6,"Tuesday, 2. February 2016",19:45,Arsenal FC,Southampton FC,0:0,Emirates Stadium (London / England),60.044
+236,r24,m7,"Tuesday, 2. February 2016",19:45,Norwich City,Tottenham Hotspur,0:3,Carrow Road (Norwich / England),27.067
+237,r24,m8,"Tuesday, 2. February 2016",19:45,West Ham United,Aston Villa,2:0,Upton Park (London / England),34.914
+238,r24,m9,"Tuesday, 2. February 2016",20:00,Manchester United,Stoke City,3:0,Old Trafford (Manchester / England),75.234
+239,r24,m10,"Wednesday, 3. February 2016",19:45,Watford FC,Chelsea FC,0:0,Vicarage Road (Watford / England),20.910
+240,r25,m1,"Saturday, 6. February 2016",15:00,Aston Villa,Norwich City,2:0,Villa Park (Birmingham / England),32.472
+241,r25,m2,"Saturday, 6. February 2016",15:00,Newcastle United,West Bromwich Albion,1:0,St James' Park (Newcastle / England),50.152
+242,r25,m3,"Saturday, 6. February 2016",15:00,Swansea City,Crystal Palace,1:1,Liberty Stadium (Swansea / Wales),20.492
+243,r25,m4,"Saturday, 6. February 2016",17:30,Southampton FC,West Ham United,1:0,Saint Mary's (Southampton / England),29.161
+244,r25,m5,"Sunday, 7. February 2016",16:00,Chelsea FC,Manchester United,1:1,Stamford Bridge (London / England),41.434
+245,r25,m6,"Saturday, 6. February 2016",12:45,Manchester City,Leicester City,1:3,Etihad Stadium (Manchester / England),54.693
+246,r25,m7,"Saturday, 6. February 2016",15:00,Liverpool FC,Sunderland AFC,2:2,Anfield (Liverpool / England),44.179
+247,r25,m8,"Saturday, 6. February 2016",15:00,Stoke City,Everton FC,0:3,Britannia Stadium (Stoke-on-Trent / England),27.733
+248,r25,m9,"Saturday, 6. February 2016",15:00,Tottenham Hotspur,Watford FC,1:0,White Hart Lane (London / England),35.997
+249,r25,m10,"Sunday, 7. February 2016",13:30,AFC Bournemouth,Arsenal FC,0:2,Vitality Stadium (Bournemouth / England),11.357
+250,r26,m1,"Saturday, 13. February 2016",15:00,AFC Bournemouth,Stoke City,1:3,Vitality Stadium (Bournemouth / England),10.863
+251,r26,m2,"Saturday, 13. February 2016",15:00,Everton FC,West Bromwich Albion,0:1,Goodison Park (Liverpool / England),38.103
+252,r26,m3,"Saturday, 13. February 2016",15:00,Swansea City,Southampton FC,0:1,Liberty Stadium (Swansea / Wales),20.890
+253,r26,m4,"Sunday, 14. February 2016",12:00,Arsenal FC,Leicester City,2:1,Emirates Stadium (London / England),60.009
+254,r26,m5,"Sunday, 14. February 2016",16:15,Manchester City,Tottenham Hotspur,1:2,Etihad Stadium (Manchester / England),54.551
+255,r26,m6,"Saturday, 13. February 2016",12:45,Sunderland AFC,Manchester United,2:1,Stadium of Light (Sunderland / England),41.687
+256,r26,m7,"Saturday, 13. February 2016",15:00,Crystal Palace,Watford FC,1:2,Selhurst Park (London / England),24.564
+257,r26,m8,"Saturday, 13. February 2016",15:00,Norwich City,West Ham United,2:2,Carrow Road (Norwich / England),27.101
+258,r26,m9,"Saturday, 13. February 2016",17:30,Chelsea FC,Newcastle United,5:1,Stamford Bridge (London / England),41.622
+259,r26,m10,"Sunday, 14. February 2016",14:05,Aston Villa,Liverpool FC,0:6,Villa Park (Birmingham / England),35.798
+260,r27,m1,"Saturday, 27. February 2016",15:00,Leicester City,Norwich City,1:0,King Power Stadium (Leicester / England),32.114
+261,r27,m2,"Saturday, 27. February 2016",15:00,Stoke City,Aston Villa,2:1,Britannia Stadium (Stoke-on-Trent / England),27.703
+262,r27,m3,"Saturday, 27. February 2016",17:30,West Bromwich Albion,Crystal Palace,3:2,The Hawthorns (West Bromwich / England),24.806
+263,r27,m4,"Sunday, 28. February 2016",14:05,Tottenham Hotspur,Swansea City,2:1,White Hart Lane (London / England),35.922
+264,r27,m5,"Wednesday, 20. April 2016",20:00,Liverpool FC,Everton FC,4:0,Anfield (Liverpool / England),43.854
+265,r27,m6,"Saturday, 27. February 2016",12:45,West Ham United,Sunderland AFC,1:0,Upton Park (London / England),34.946
+266,r27,m7,"Saturday, 27. February 2016",15:00,Southampton FC,Chelsea FC,1:2,Saint Mary's (Southampton / England),31.688
+267,r27,m8,"Saturday, 27. February 2016",15:00,Watford FC,AFC Bournemouth,0:0,Vicarage Road (Watford / England),20.831
+268,r27,m9,"Sunday, 28. February 2016",14:05,Manchester United,Arsenal FC,3:2,Old Trafford (Manchester / England),75.329
+269,r27,m10,"Tuesday, 19. April 2016",19:45,Newcastle United,Manchester City,1:1,St James' Park (Newcastle / England),46.424
+270,r28,m1,"Tuesday, 1. March 2016",19:45,Aston Villa,Everton FC,1:3,Villa Park (Birmingham / England),29.755
+271,r28,m2,"Tuesday, 1. March 2016",19:45,Norwich City,Chelsea FC,1:2,Carrow Road (Norwich / England),27.091
+272,r28,m3,"Wednesday, 2. March 2016",19:45,Arsenal FC,Swansea City,1:2,Emirates Stadium (London / England),59.905
+273,r28,m4,"Wednesday, 2. March 2016",19:45,Stoke City,Newcastle United,1:0,Britannia Stadium (Stoke-on-Trent / England),27.331
+274,r28,m5,"Wednesday, 2. March 2016",20:00,Manchester United,Watford FC,1:0,Old Trafford (Manchester / England),75.272
+275,r28,m6,"Tuesday, 1. March 2016",19:45,AFC Bournemouth,Southampton FC,2:0,Vitality Stadium (Bournemouth / England),11.033
+276,r28,m7,"Tuesday, 1. March 2016",19:45,Leicester City,West Bromwich Albion,2:2,King Power Stadium (Leicester / England),32.018
+277,r28,m8,"Tuesday, 1. March 2016",19:45,Sunderland AFC,Crystal Palace,2:2,Stadium of Light (Sunderland / England),39.795
+278,r28,m9,"Wednesday, 2. March 2016",19:45,West Ham United,Tottenham Hotspur,1:0,Upton Park (London / England),34.977
+279,r28,m10,"Wednesday, 2. March 2016",20:00,Liverpool FC,Manchester City,3:0,Anfield (Liverpool / England),43.597
+280,r29,m1,"Saturday, 5. March 2016",15:00,Chelsea FC,Stoke City,1:1,Stamford Bridge (London / England),41.381
+281,r29,m2,"Saturday, 5. March 2016",15:00,Manchester City,Aston Villa,4:0,Etihad Stadium (Manchester / England),53.892
+282,r29,m3,"Saturday, 5. March 2016",15:00,Southampton FC,Sunderland AFC,1:1,Saint Mary's (Southampton / England),31.458
+283,r29,m4,"Saturday, 5. March 2016",17:30,Watford FC,Leicester City,0:1,Vicarage Road (Watford / England),20.884
+284,r29,m5,"Sunday, 6. March 2016",16:00,West Bromwich Albion,Manchester United,1:0,The Hawthorns (West Bromwich / England),24.878
+285,r29,m6,"Saturday, 5. March 2016",12:45,Tottenham Hotspur,Arsenal FC,2:2,White Hart Lane (London / England),35.762
+286,r29,m7,"Saturday, 5. March 2016",15:00,Everton FC,West Ham United,2:3,Goodison Park (Liverpool / England),39.000
+287,r29,m8,"Saturday, 5. March 2016",15:00,Newcastle United,AFC Bournemouth,1:3,St James' Park (Newcastle / England),52.107
+288,r29,m9,"Saturday, 5. March 2016",15:00,Swansea City,Norwich City,1:0,Liberty Stadium (Swansea / Wales),20.929
+289,r29,m10,"Sunday, 6. March 2016",13:30,Crystal Palace,Liverpool FC,1:2,Selhurst Park (London / England),24.709
+290,r30,m1,"Saturday, 12. March 2016",15:00,AFC Bournemouth,Swansea City,3:2,Vitality Stadium (Bournemouth / England),11.179
+291,r30,m2,"Sunday, 13. March 2016",16:00,Aston Villa,Tottenham Hotspur,0:2,Villa Park (Birmingham / England),32.393
+292,r30,m3,"Wednesday, 20. April 2016",19:45,West Ham United,Watford FC,3:1,Upton Park (London / England),34.857
+293,r30,m4,"Thursday, 21. April 2016",19:45,Arsenal FC,West Bromwich Albion,2:0,Emirates Stadium (London / England),59.568
+294,r30,m5,"Wednesday, 11. May 2016",20:00,Liverpool FC,Chelsea FC,1:1,Anfield (Liverpool / England),43.210
+295,r30,m6,"Saturday, 12. March 2016",12:45,Norwich City,Manchester City,0:0,Carrow Road (Norwich / England),26.323
+296,r30,m7,"Saturday, 12. March 2016",15:00,Stoke City,Southampton FC,1:2,Britannia Stadium (Stoke-on-Trent / England),27.833
+297,r30,m8,"Monday, 14. March 2016",20:00,Leicester City,Newcastle United,1:0,King Power Stadium (Leicester / England),31.824
+298,r30,m9,"Wednesday, 20. April 2016",20:00,Manchester United,Crystal Palace,2:0,Old Trafford (Manchester / England),75.408
+299,r30,m10,"Wednesday, 11. May 2016",19:45,Sunderland AFC,Everton FC,3:0,Stadium of Light (Sunderland / England),46.454
+300,r31,m1,"Saturday, 19. March 2016",15:00,Chelsea FC,West Ham United,2:2,Stamford Bridge (London / England),41.623
+301,r31,m2,"Saturday, 19. March 2016",15:00,Watford FC,Stoke City,1:2,Vicarage Road (Watford / England),20.759
+302,r31,m3,"Saturday, 19. March 2016",17:30,Swansea City,Aston Villa,1:0,Liberty Stadium (Swansea / Wales),20.454
+303,r31,m4,"Sunday, 20. March 2016",13:30,Southampton FC,Liverpool FC,3:2,Saint Mary's (Southampton / England),31.596
+304,r31,m5,"Sunday, 20. March 2016",16:00,Tottenham Hotspur,AFC Bournemouth,3:0,White Hart Lane (London / England),36.084
+305,r31,m6,"Saturday, 19. March 2016",12:45,Everton FC,Arsenal FC,0:2,Goodison Park (Liverpool / England),39.270
+306,r31,m7,"Saturday, 19. March 2016",15:00,Crystal Palace,Leicester City,0:1,Selhurst Park (London / England),25.041
+307,r31,m8,"Saturday, 19. March 2016",15:00,West Bromwich Albion,Norwich City,0:1,The Hawthorns (West Bromwich / England),25.039
+308,r31,m9,"Sunday, 20. March 2016",13:30,Newcastle United,Sunderland AFC,1:1,St James' Park (Newcastle / England),52.311
+309,r31,m10,"Sunday, 20. March 2016",16:00,Manchester City,Manchester United,0:1,Etihad Stadium (Manchester / England),54.557
+310,r32,m1,"Saturday, 2. April 2016",15:00,AFC Bournemouth,Manchester City,0:4,Vitality Stadium (Bournemouth / England),11.192
+311,r32,m2,"Saturday, 2. April 2016",15:00,Norwich City,Newcastle United,3:2,Carrow Road (Norwich / England),27.137
+312,r32,m3,"Saturday, 2. April 2016",15:00,Sunderland AFC,West Bromwich Albion,0:0,Stadium of Light (Sunderland / England),45.144
+313,r32,m4,"Saturday, 2. April 2016",17:30,Liverpool FC,Tottenham Hotspur,1:1,Anfield (Liverpool / England),44.062
+314,r32,m5,"Sunday, 3. April 2016",16:00,Manchester United,Everton FC,1:0,Old Trafford (Manchester / England),75.341
+315,r32,m6,"Saturday, 2. April 2016",12:45,Aston Villa,Chelsea FC,0:4,Villa Park (Birmingham / England),31.120
+316,r32,m7,"Saturday, 2. April 2016",15:00,Arsenal FC,Watford FC,4:0,Emirates Stadium (London / England),59.981
+317,r32,m8,"Saturday, 2. April 2016",15:00,Stoke City,Swansea City,2:2,Britannia Stadium (Stoke-on-Trent / England),27.649
+318,r32,m9,"Saturday, 2. April 2016",15:00,West Ham United,Crystal Palace,2:2,Upton Park (London / England),34.857
+319,r32,m10,"Sunday, 3. April 2016",13:30,Leicester City,Southampton FC,1:0,King Power Stadium (Leicester / England),32.071
+320,r33,m1,"Saturday, 9. April 2016",15:00,Aston Villa,AFC Bournemouth,1:2,Villa Park (Birmingham / England),31.057
+321,r33,m2,"Saturday, 9. April 2016",15:00,Southampton FC,Newcastle United,3:1,Saint Mary's (Southampton / England),31.542
+322,r33,m3,"Saturday, 9. April 2016",15:00,Watford FC,Everton FC,1:1,Vicarage Road (Watford / England),20.663
+323,r33,m4,"Sunday, 10. April 2016",13:30,Sunderland AFC,Leicester City,0:2,Stadium of Light (Sunderland / England),46.531
+324,r33,m5,"Sunday, 10. April 2016",16:30,Tottenham Hotspur,Manchester United,3:0,White Hart Lane (London / England),35.761
+325,r33,m6,"Saturday, 9. April 2016",12:45,West Ham United,Arsenal FC,3:3,Upton Park (London / England),34.977
+326,r33,m7,"Saturday, 9. April 2016",15:00,Crystal Palace,Norwich City,1:0,Selhurst Park (London / England),24.960
+327,r33,m8,"Saturday, 9. April 2016",15:00,Swansea City,Chelsea FC,1:0,Liberty Stadium (Swansea / Wales),20.966
+328,r33,m9,"Saturday, 9. April 2016",17:30,Manchester City,West Bromwich Albion,2:1,Etihad Stadium (Manchester / England),53.920
+329,r33,m10,"Sunday, 10. April 2016",16:00,Liverpool FC,Stoke City,4:1,Anfield (Liverpool / England),43.688
+330,r34,m1,"Saturday, 16. April 2016",15:00,Everton FC,Southampton FC,1:1,Goodison Park (Liverpool / England),36.761
+331,r34,m2,"Saturday, 16. April 2016",15:00,Newcastle United,Swansea City,3:0,St James' Park (Newcastle / England),48.949
+332,r34,m3,"Saturday, 16. April 2016",17:30,Chelsea FC,Manchester City,0:3,Stamford Bridge (London / England),41.212
+333,r34,m4,"Sunday, 17. April 2016",13:30,Leicester City,West Ham United,2:2,King Power Stadium (Leicester / England),32.104
+334,r34,m5,"Monday, 18. April 2016",20:00,Stoke City,Tottenham Hotspur,0:4,Britannia Stadium (Stoke-on-Trent / England),27.442
+335,r34,m6,"Saturday, 16. April 2016",12:45,Norwich City,Sunderland AFC,0:3,Carrow Road (Norwich / England),27.117
+336,r34,m7,"Saturday, 16. April 2016",15:00,Manchester United,Aston Villa,1:0,Old Trafford (Manchester / England),75.411
+337,r34,m8,"Saturday, 16. April 2016",15:00,West Bromwich Albion,Watford FC,0:1,The Hawthorns (West Bromwich / England),25.515
+338,r34,m9,"Sunday, 17. April 2016",13:30,AFC Bournemouth,Liverpool FC,1:2,Vitality Stadium (Bournemouth / England),11.386
+339,r34,m10,"Sunday, 17. April 2016",16:00,Arsenal FC,Crystal Palace,1:1,Emirates Stadium (London / England),59.961
+340,r35,m1,"Saturday, 23. April 2016",12:45,Manchester City,Stoke City,4:0,Etihad Stadium (Manchester / England),53.974
+341,r35,m2,"Saturday, 23. April 2016",15:00,Aston Villa,Southampton FC,2:4,Villa Park (Birmingham / England),29.729
+342,r35,m3,"Sunday, 24. April 2016",14:05,Sunderland AFC,Arsenal FC,0:0,Stadium of Light (Sunderland / England),45.420
+343,r35,m4,"Monday, 25. April 2016",20:00,Tottenham Hotspur,West Bromwich Albion,1:1,White Hart Lane (London / England),35.923
+344,r35,m5,"Wednesday, 11. May 2016",19:45,Norwich City,Watford FC,4:2,Carrow Road (Norwich / England),26.279
+345,r35,m6,"Wednesday, 13. April 2016",20:00,Crystal Palace,Everton FC,0:0,Selhurst Park (London / England),23.528
+346,r35,m7,"Saturday, 23. April 2016",15:00,AFC Bournemouth,Chelsea FC,1:4,Vitality Stadium (Bournemouth / England),11.365
+347,r35,m8,"Saturday, 23. April 2016",15:00,Liverpool FC,Newcastle United,2:2,Anfield (Liverpool / England),43.837
+348,r35,m9,"Sunday, 24. April 2016",16:15,Leicester City,Swansea City,4:0,King Power Stadium (Leicester / England),31.962
+349,r35,m10,"Tuesday, 10. May 2016",20:30,West Ham United,Manchester United,3:2,Upton Park (London / England),34.602
+350,r36,m1,"Saturday, 30. April 2016",15:00,Newcastle United,Crystal Palace,1:0,St James' Park (Newcastle / England),52.107
+351,r36,m2,"Saturday, 30. April 2016",15:00,Watford FC,Aston Villa,3:2,Vicarage Road (Watford / England),20.653
+352,r36,m3,"Saturday, 30. April 2016",17:30,Arsenal FC,Norwich City,1:0,Emirates Stadium (London / England),59.989
+353,r36,m4,"Sunday, 1. May 2016",14:05,Manchester United,Leicester City,1:1,Old Trafford (Manchester / England),75.275
+354,r36,m5,"Monday, 2. May 2016",20:00,Chelsea FC,Tottenham Hotspur,2:2,Stamford Bridge (London / England),41.545
+355,r36,m6,"Saturday, 30. April 2016",15:00,Everton FC,AFC Bournemouth,2:1,Goodison Park (Liverpool / England),38.345
+356,r36,m7,"Saturday, 30. April 2016",15:00,Stoke City,Sunderland AFC,1:1,Britannia Stadium (Stoke-on-Trent / England),27.667
+357,r36,m8,"Saturday, 30. April 2016",15:00,West Bromwich Albion,West Ham United,0:3,The Hawthorns (West Bromwich / England),25.031
+358,r36,m9,"Sunday, 1. May 2016",12:00,Swansea City,Liverpool FC,3:1,Liberty Stadium (Swansea / Wales),20.972
+359,r36,m10,"Sunday, 1. May 2016",16:30,Southampton FC,Manchester City,4:2,Saint Mary's (Southampton / England),31.472
+360,r37,m1,"Saturday, 7. May 2016",15:00,AFC Bournemouth,West Bromwich Albion,1:1,Vitality Stadium (Bournemouth / England),11.040
+361,r37,m2,"Saturday, 7. May 2016",15:00,Crystal Palace,Stoke City,2:1,Selhurst Park (London / England),23.990
+362,r37,m3,"Saturday, 7. May 2016",15:00,West Ham United,Swansea City,1:4,Upton Park (London / England),34.907
+363,r37,m4,"Sunday, 8. May 2016",13:30,Tottenham Hotspur,Southampton FC,1:2,White Hart Lane (London / England),35.748
+364,r37,m5,"Sunday, 8. May 2016",16:00,Manchester City,Arsenal FC,2:2,Etihad Stadium (Manchester / England),54.425
+365,r37,m6,"Saturday, 7. May 2016",12:45,Norwich City,Manchester United,0:1,Carrow Road (Norwich / England),27.132
+366,r37,m7,"Saturday, 7. May 2016",15:00,Aston Villa,Newcastle United,0:0,Villa Park (Birmingham / England),33.055
+367,r37,m8,"Saturday, 7. May 2016",15:00,Sunderland AFC,Chelsea FC,3:2,Stadium of Light (Sunderland / England),47.050
+368,r37,m9,"Saturday, 7. May 2016",17:30,Leicester City,Everton FC,3:1,King Power Stadium (Leicester / England),32.140
+369,r37,m10,"Sunday, 8. May 2016",16:00,Liverpool FC,Watford FC,2:0,Anfield (Liverpool / England),43.341
+370,r38,m1,"Sunday, 15. May 2016",15:00,Chelsea FC,Leicester City,1:1,Stamford Bridge (London / England),41.494
+371,r38,m2,"Sunday, 15. May 2016",15:00,Newcastle United,Tottenham Hotspur,5:1,St James' Park (Newcastle / England),52.183
+372,r38,m3,"Sunday, 15. May 2016",15:00,Stoke City,West Ham United,2:1,Britannia Stadium (Stoke-on-Trent / England),27.721
+373,r38,m4,"Sunday, 15. May 2016",15:00,Watford FC,Sunderland AFC,2:2,Vicarage Road (Watford / England),21.012
+374,r38,m5,"Tuesday, 17. May 2016",20:00,Manchester United,AFC Bournemouth,3:1,Old Trafford (Manchester / England),74.363
+375,r38,m6,"Sunday, 15. May 2016",15:00,Arsenal FC,Aston Villa,4:0,Emirates Stadium (London / England),60.007
+376,r38,m7,"Sunday, 15. May 2016",15:00,Everton FC,Norwich City,3:0,Goodison Park (Liverpool / England),36.691
+377,r38,m8,"Sunday, 15. May 2016",15:00,Southampton FC,Crystal Palace,4:1,Saint Mary's (Southampton / England),31.313
+378,r38,m9,"Sunday, 15. May 2016",15:00,Swansea City,Manchester City,1:1,Liberty Stadium (Swansea / Wales),20.934
+379,r38,m10,"Sunday, 15. May 2016",15:00,West Bromwich Albion,Liverpool FC,1:1,The Hawthorns (West Bromwich / England),26.196
